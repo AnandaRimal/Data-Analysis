@@ -27,6 +27,5 @@ It focuses purely on analyzing textual data — including cleaning, processing, 
 
 ---
 
-## 📁 Folder Structure
 
 for datasets visits https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
